@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document pisola */
+
+
+body {
+    background: pink;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.orange {
+    background: orange;
+}
+
+.bleuclair {
+    background: lightblue;
+}
+
+.vertclair {
+    background: lightgreen;
+}
+
+.grisclair {
+    background: lightgrey;
+}
+
+.olive {
+    background: olive;
+}
+
+.blanc {
+    background: white;
+}
+
+
+.bg-tomato {
+    background: tomato;
+}
+
+/* pour que le container ait la place */
+
+.marge-haute {
+    margin-top: 70px;
+}
