@@ -1,1 +1,1 @@
-# EXOS_bootstrap_02
+# bootstrap_exos_02
