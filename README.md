@@ -1,1 +1,1 @@
-# bootstrap_exos_02
+# cours_bootstrap_02
